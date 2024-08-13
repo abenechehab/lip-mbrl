@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scipy
+tqdm
+gym
+
+# torch @ https://download.pytorch.org/whl/cpu  # cpu only
